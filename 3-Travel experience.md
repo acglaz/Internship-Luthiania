@@ -37,14 +37,26 @@
 ## Local food 
 ******************************************************************************************************************************************************
 
-+ Turkey Meal ball stewed in cream and root vegetables
++
 
+![Soup](https://www.willflyforfood.net/wp-content/uploads/2021/07/lithuanian-food-saltibarsciai.jpg.webp)
+
+
+-
+
+![food](https://www.willflyforfood.net/wp-content/uploads/2021/07/lithuanian-food-sakotis1.jpg.webp)
+
++
+
+-
+
++
+
+
+-
 
 ******************************************************************************************************************************************************
 
--  Beetroop soup and fried potatoes with meat and Luthianian cider
-
-*![Meal](1696439334840.jpg)
 
 **Link pages:**
 
