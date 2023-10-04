@@ -1,5 +1,4 @@
 # Travel experience 
-dddddddd
 ## Places visited
 
 * Kaunas Caslte
