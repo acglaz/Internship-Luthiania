@@ -2,16 +2,21 @@
 dddddddd
 ## Places visited
 
-Kaunas Caslte
+* Kaunas Caslte
+
 (photo)
 
-Sakura Park
++ Sakura Park
+
 (photo)
 
-Kaunas Ninth Fort Museum
+- Kaunas Ninth Fort Museum
+
 (photo)
 
-Bell Tower of Vilnius
++ Bell Tower of Vilnius
 (photo)
 
 ## Local food 
+
+Turkey Meat ball stewed in cream and
