@@ -8,7 +8,7 @@ Hello, my name is AC and this blog aims to present my 3rd year university intern
 * My internship tutor Jurgita Kereviciene
 * Erasmus Coordinator Livija Grikietis
 * French dubbed project tutor Danguole Satkauskaite
-  
+   
 
 
 
