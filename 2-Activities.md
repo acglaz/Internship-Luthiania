@@ -31,4 +31,4 @@ _"Mon Double Presque Parfait"_ 2018
 
  > Use of the rethorical devices of Delabastita Dirk, *The Translator* 1986
 
-[Travel experience](https://github.com/acglaz/Internship-Luthiania/blob/main/3-Travel%20experience.md)
+[Travel experience](3-Travel%20experience.md)
