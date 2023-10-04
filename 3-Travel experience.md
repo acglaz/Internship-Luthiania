@@ -27,7 +27,6 @@
 ## Local food 
 ********************************************************************************************************************************************************************************************************************************
 
-* Turkey Meat ball stewed in cream and root vegetables
 
 (photo)
 
@@ -35,7 +34,7 @@
 
 -  Beetroop soupb and fried potatoes with meat and Luthianian cider
 
-  (photo)
+ * ![Meal](C:\Users\acgla\OneDrive\Documents\1696439334840.jpg)
 
 **Link pages:**
 
