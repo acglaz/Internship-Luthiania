@@ -34,7 +34,7 @@
 
 -  Beetroop soupb and fried potatoes with meat and Luthianian cider
 
- * ![Meal](C:\Users\acgla\OneDrive\Documents\1696439334840.jpg)
+*![Meal](1696439334840.jpg)
 
 **Link pages:**
 
