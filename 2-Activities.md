@@ -19,6 +19,10 @@ by Jean-Marie Poiré
 
 ## Tasks as a thanks 
 
-### Teatching french to students
+### Teaching french to students
+* Creation of visual material (Canva)
+* Assisting the French teacher Alina Kuzmichiené
+* French lessons: French Argot, Britanny, Idiomatic French Expressions, Suggestion of websites & movies to learn French
+  
 ### Tell Me More Conference 
 [Travel experience](https://github.com/acglaz/Internship-Luthiania/blob/main/3-Travel%20experience.md)
