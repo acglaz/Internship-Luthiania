@@ -14,4 +14,4 @@ Hello, my name is AC and this blog aims to present my 3rd year university intern
 
 
 
-[Acrtivities](https://github.com/acglaz/Internship-Luthiania/blob/main/2-Activities.md)
+[Acrtivities](2-Activities)
