@@ -19,4 +19,10 @@ dddddddd
 
 ## Local food 
 
-Turkey Meat ball stewed in cream and
+* Turkey Meat ball stewed in cream and
+
+(photo)
+
+-  Beetroop soupb and fried potatoes with meat and Luthianian cider
+
+  (photo)
