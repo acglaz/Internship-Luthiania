@@ -12,7 +12,7 @@ Garfield and his friends | Time codes
 The final goal of my interniship was to subtitle from French to English a 90 minutes French movie : *Gramps is in the Resistance* of 1983 
 by Jean-Marie Poiré
 
-(image)
+[Papi fait de la Résistance](https://fr.web.img3.acsta.net/medias/nmedia/18/70/00/89/20322427.jpg)
 
 [Papi fait de la Résistance film](https://archive.org/details/papy-fait-de-la-resistance-1983)
 
