@@ -10,8 +10,8 @@ Zootopia 2016 | Segmentation
 The Brave One 2007 | Segmentation & Punctuation 
 Garfield and his friends | Time codes
 ### Final project
-The final goal of my interniship was to subtitle from French to English a 90 minutes French movie : *Gramps is in the Resistance* of 1983 
-by Jean-Marie Poiré
+The final goal of my interniship was to subtitle from French to English a 90 minutes French movie : 
+*Gramps is in the Resistance* of 1983 by Jean-Marie Poiré
 
 ![Papi fait de la Résistance](https://fr.web.img3.acsta.net/medias/nmedia/18/70/00/89/20322427.jpg)
 
