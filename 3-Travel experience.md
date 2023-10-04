@@ -39,7 +39,7 @@
 
 **Link pages:**
 
-* [index]
+* [index](index)
 
 *  [Acrtivities](2-Activities)
   
