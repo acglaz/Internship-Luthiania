@@ -1,5 +1,5 @@
 # Tasks
-During my internship I had to make severals tasks but some of them were an exchange of service to thank the university for taking me in. 
+During my internship I had to make severals tasks but some of them were an exchange of service to thank the university for taking me in. The subtitles tasks have been done withe the application Subtitle Edit
 ## Tasks link to the audiovisual project
 ### Subtile tasks
 Video files |  Audiovisual technique 
