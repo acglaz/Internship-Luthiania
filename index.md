@@ -16,4 +16,17 @@ Presentation of my internship in Lithuania (March-May 2023) at the University of
 * Subtitle Edit
 
 
-[Acrtivities](2-Activities)
+
+
+**Navigation links**
+
+
+* [index](index)
+  
+
+*  [Acrtivities](2-Activities)
+  
+  
+*  [Travel experience](3-Travel%20experience)
+
+
