@@ -47,7 +47,7 @@
 ![food](https://www.willflyforfood.net/wp-content/uploads/2021/07/lithuanian-food-sakotis1.jpg.webp)
 
 +
-
+**Lašiniai**
 
 ![food](https://www.willflyforfood.net/wp-content/uploads/2021/07/lithuanian-food-lasiniai.jpg.webp)
 
