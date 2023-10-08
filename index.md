@@ -9,6 +9,7 @@ Presentation of my internship in Lithuania (March-May 2023) at the University of
 * French dubbed project tutor Danguole Satkauskaite
    
 
+
 **Tools used**
 
 * Microsoft Team
