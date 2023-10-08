@@ -1,7 +1,6 @@
 # index
 
-Hello, my name is AC and this blog aims to present my 3rd year university internship in Luthiania. As part of my scholar activities I had to go make an internship in France or abroad.
-
+Presentation of my internship in Lithuania (March-May 2023) at the University of Kaunas for my audiovisual translation intership. 
 
 **List of the supervisors**
 
