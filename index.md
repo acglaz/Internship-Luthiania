@@ -1,6 +1,6 @@
 # index
 
-Presentation of my internship in Lithuania (March-May 2023) at the University of Kaunas for my audiovisual translation intership. 
+Presentation of my internship in Lithuania (March-May 2023) at the University of Kaunas for my audiovisual translation internship. 
 
 **List of the supervisors**
 
