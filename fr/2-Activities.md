@@ -40,5 +40,5 @@ L'objectif final de mon stage était de sous-titrer du français vers l'anglais 
   
 *  [Expérience de voyage](3-Travel%20experience)
   
-*  | [🇬🇧 English](/en/2-Activities.md) 
+*  | [🇬🇧 English](../en/2-Activities.md) 
 
