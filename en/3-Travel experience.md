@@ -73,4 +73,4 @@
   
 *  [Travel experience](3-Travel%20experience)
 
-*  [🇬🇧 English](/en/3-Travel experience.md) | [🇫🇷 Français](/fr/3-Travel experience.md)
+*  | [🇫🇷 Français](/fr/3-Travel experience.md)
