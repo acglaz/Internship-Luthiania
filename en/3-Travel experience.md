@@ -1,5 +1,4 @@
 # Travel experience
-li><a href="/fr/3-Travel experience.md">FR</a></li>
 ## Places visited
 
 * **Kaunas Caslte**
@@ -73,3 +72,5 @@ li><a href="/fr/3-Travel experience.md">FR</a></li>
   
   
 *  [Travel experience](3-Travel%20experience)
+
+*  [3-Travel experience.md](fr)
