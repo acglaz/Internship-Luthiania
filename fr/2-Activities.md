@@ -13,6 +13,14 @@ Zootopia 2016|Segmentation
 The Brave One 2007|Segmentation & Ponctuation 
 Garfield et son ami|Time codes
 
+
+Video files|Audiovisual technique 
+------------|----------------------------------
+Encanto 2021|Initialization of the application
+Zootopia 2016|Segmentation
+The Brave One 2007|Segmentation & Punctuation 
+Garfield and his friend|Time codes
+
 ### Projet final
 L'objectif final de mon stage était de sous-titrer du français vers l'anglais un film français de 90 minutes : *Papi fait de la Résistance* de 1983 par Jean-Marie Poiré
 
