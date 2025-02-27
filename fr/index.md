@@ -1,5 +1,5 @@
 # index
-li><a href="/en/index.md">EN</a></li>
+
 Présentation de mon stage en Lituanie (mars-mai 2023) à l'Université de Kaunas pour mon stage de traduction audiovisuelle. 
 
 **Liste des superviseurs**
@@ -29,4 +29,4 @@ Présentation de mon stage en Lituanie (mars-mai 2023) à l'Université de Kauna
   
 *  [Expérience de voyage](3-Travel%20experience)
 
-
+*  [index.md](en)
