@@ -5,8 +5,13 @@ Pendant mon stage, j'ai dû effectuer plusieurs tâches, mais certaines d'entre 
 ## Les tâches sont liées au projet audiovisuel
 ### Subtile Edit
 
- Fichiers vidéo|Technique audiovisuelle ------------|---------------------------------- Encanto 2021|Initialisation de l'application Zootopia 2016|Segmentation The Brave One 2007|Segmentation & Ponctuation Garfield et son ami|Time codes
-
+ Fichiers vidéo |Technique audiovisuelle 
+ 
+------------|----------------------------------
+Encanto 2021|Initialisation de l'application 
+Zootopia 2016|Segmentation
+The Brave One 2007|Segmentation & Ponctuation 
+Garfield et son ami|Time codes
 
 ### Projet final
 L'objectif final de mon stage était de sous-titrer du français vers l'anglais un film français de 90 minutes : *Papi fait de la Résistance* de 1983 par Jean-Marie Poiré
