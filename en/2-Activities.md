@@ -1,5 +1,5 @@
 # Tasks
-li><a href="/fr/2-Activities.md">FR</a></li>
+
 During my internship I had to make severals tasks but some of them were an exchange of service to thank the university for taking me in. The subtitles tasks have been done with the application Subtitle Edit.
 
 ## Tasks link to the audiovisual project
@@ -46,5 +46,7 @@ _"Mon Double Presque Parfait"_ 2018
   
   
 *  [Travel experience](3-Travel%20experience)
+
+*  [2-Activities.md](fr)
 
 
