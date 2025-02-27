@@ -29,4 +29,4 @@ Présentation de mon stage en Lituanie (mars-mai 2023) à l'Université de Kauna
   
 *  [Expérience de voyage](3-Travel%20experience)
 
-*  [🇬🇧 English](/en/index.md) | [🇫🇷 Français](/fr/index.md)
+* | [🇬🇧 English](/en/index.md) 
