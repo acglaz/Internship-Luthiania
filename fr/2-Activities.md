@@ -1,4 +1,5 @@
 # Tâches
+li><a href="/en/2-Activities.md">EN</a></li>
 Pendant mon stage, j'ai dû effectuer plusieurs tâches, mais certaines d'entre elles étaient un échange de services pour remercier l'université de m'avoir accueillie. Les tâches relatives aux sous-titres ont été effectuées avec l'application Subtitle Edit.
 
 ## Les tâches sont liées au projet audiovisuel
