@@ -47,7 +47,7 @@ _"Mon Double Presque Parfait"_ 2018
   
 *  [Travel experience](3-Travel%20experience)
 
-*  | [🇫🇷 Français](/fr/2-Activities.md)
+*  | [🇫🇷 Français](../fr/2-Activities.md)
 
 
 
