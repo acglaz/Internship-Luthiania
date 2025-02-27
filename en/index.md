@@ -1,5 +1,4 @@
 # index
-li><a href="/fr/index.md">FR</a></li>
 
 Presentation of my internship in Lithuania (March-May 2023) at the University of Kaunas for my audiovisual translation internship. 
 
@@ -29,5 +28,7 @@ Presentation of my internship in Lithuania (March-May 2023) at the University of
   
   
 *  [Travel experience](3-Travel%20experience)
+
+*  [index.md](fr)
 
 
