@@ -29,6 +29,6 @@ Presentation of my internship in Lithuania (March-May 2023) at the University of
   
 *  [Travel experience](3-Travel%20experience)
 
-*  [🇬🇧 English](/en/index.md) | [🇫🇷 Français](/fr/index.md)
+*  | [🇫🇷 Français](/fr/index.md)
 
 
